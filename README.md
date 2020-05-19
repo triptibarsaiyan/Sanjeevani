@@ -1,0 +1,2 @@
+# Sanjeevani
+The IT system has revolutionized the field of medicine. In this fast-paced world of medicine, it is a daunting task to manage a multi-specialty hospital. Sanjeevani is a computer or Standalone system that facilitates managing the functioning of the hospital or any medical setup. This system or software will help in making the whole functioning paperless. It integrates all the information regarding patients, doctors, staff, hospital administrative details etc. into one software. It has sections for various professionals that make up a hospital.
